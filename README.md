@@ -4,7 +4,7 @@
 🔭 I'm currently working on Web Development!  <br />
 🌱 I’m currently learning Competitive-coding & Web Development. <br />
 👯 I’m looking to collaborate with other content creators. <br />
-🥅 2020 Goals: Contribute more to Open Source projects. <br />
+🥅 2021 Goals: Contribute more to Open Source projects. <br />
 
 ### Connect with me:
 
