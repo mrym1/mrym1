@@ -5,37 +5,52 @@
 🌱 I’m currently learning Competitive-coding & Web Development. <br />
 👯 I’m looking to collaborate with other content creators. <br />
 🥅 2021 Goals: Contribute more to Open Source projects. <br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mrym | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mrym | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mrym | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
+<img alt="img" src="https://i.pinimg.com/564x/72/ec/f5/72ecf54e39d1fa8eb10273ddffca9440.jpg" width="500"/> 
 <br />
 
-### Languages and Tools:
+<h2><i>💻 Tech Stack</i></h2>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CPP" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="JAVA" width="36px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" />
-<img align="left" alt="PYTHON" width="36px" src="https://camo.githubusercontent.com/a36bec52eb8c614228aed15db917d517618655a13bed224ce4b6f78cd00b8fbc/68747470733a2f2f7777772e6a696e672e666d2f636c6970696d672f66756c6c2f35332d3533373637305f707974686f6e2d706e672d66696c652d707974686f6e2d6c6f676f2d706e672e706e67" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<code><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/java.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/php.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/mysql.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+<code><img height="30" src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67"/></code>
+<code><img height="50" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="50" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <br/>
-<br />
 
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/mrym1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrym1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrym1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <br/><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrym1&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
+<br/>
+🤝🏻 &nbsp;Connect with Me
+<br/>
+<p align="center">
+<a href="http://mrym.byethost24.com"><img src="https://img.shields.io/badge/-mrym1.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mrym1/"><img src="https://img.shields.io/badge/-Maryam%20Asghar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mrymasghar7@gmail.com"><img src="https://img.shields.io/badge/-mrymasghar7@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mrymasghar7/"><img src="https://img.shields.io/badge/-@mrymasghar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/mrymasghar"><img src="https://img.shields.io/badge/-@mrymasghar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
+
+<!-- ## Contribution Graph
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrym1&theme=xcode)](https://github.com/mrym1) -->
 
 [website]: http://mrym.byethost24.com/
-[facebook]: https://www.facebook.com/mrymasghar
-[instagram]: https://www.instagram.com/mrymasghar7/
-[linkedin]: https://www.linkedin.com/in/mrym1/
 
