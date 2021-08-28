@@ -1,12 +1,12 @@
-### Hi there, I'm [Maryam][website] 👋
+## Hi there, I'm [Maryam][website] 👋
 
-## I'm a Programmer, Tech Enthusiast, Developer, and Student! <br />
+### I'm a Programmer, Tech Enthusiast, Developer, and Student! <br />
 🔭 I'm currently working on Web Development!  <br />
 🌱 I’m currently learning Competitive-coding & Web Development. <br />
 👯 I’m looking to collaborate with other content creators. <br />
 🥅 2021 Goals: Contribute more to Open Source projects. <br />
 <br />
-<img alt="img" src="https://i.pinimg.com/564x/72/ec/f5/72ecf54e39d1fa8eb10273ddffca9440.jpg" width="500"/> 
+<img alt="img" src="img.png" width="500"/> 
 <br />
 
 <h2><i>💻 Tech Stack</i></h2>
@@ -38,7 +38,7 @@
 </p>
 </p>
 <br/>
-🤝🏻 &nbsp;Connect with Me
+<h2><i>🤝🏻 &nbsp;Connect with Me</i></h2>
 <br/>
 <p align="center">
 <a href="http://mrym.byethost24.com"><img src="https://img.shields.io/badge/-mrym1.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
