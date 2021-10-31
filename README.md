@@ -39,7 +39,7 @@
   <br/>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mrym1" alt="Maryam" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mrym">
+<!--     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mrym"> -->
 </p>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
