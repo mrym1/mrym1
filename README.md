@@ -37,10 +37,10 @@
 <a href="https://www.facebook.com/mrymasghar"><img src="https://img.shields.io/badge/-@mrymasghar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
   <br/>
-  <p align="center">
+<!--   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mrym1" alt="Maryam" />
-<!--     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mrym"> -->
-</p>
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mrym">
+  </p> -->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
