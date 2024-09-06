@@ -46,10 +46,10 @@
 
 <p align="center">
 <a href="https://github.com/mrym1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrym1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrym1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <br/><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrym1&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <br/>
 </p>
 </p>
 <br/>
